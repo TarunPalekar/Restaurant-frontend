@@ -11,7 +11,7 @@ import { Provider } from 'react-redux';
  var store=createStore(RootReducer)
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-
+<div>knwowinieno</div>
     <App />
     
 );
