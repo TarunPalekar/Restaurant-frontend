@@ -20,7 +20,7 @@ function App() {
       <Router>
          <Routes>
           
-            <Route element={<LoginPage/>} path='/loginpage' />
+            <Route element={<LoginPage/>} path='/' />
             <Route element={<Adminlogin/>} path='/adminlogin' />
            
             <Route element={<AdminDashboard/>} path='/admindashboard/*' />
