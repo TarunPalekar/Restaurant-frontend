@@ -1,5 +1,5 @@
 import axios from "axios"
-var serverURL="http://localhost:5000"
+var serverURL="https://restaurant-backend-1-5tlk.onrender.com"
  
 const getData=async(url)=>{
     try{
